@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Building <strong>Zync CA</strong> &nbsp;·&nbsp; <a href="https://kushagrakiyawat.com">kushagrakiyawat.com</a>
+  Building <a href="https://zyncca.com"><strong>Zync CA</strong></a> &nbsp;·&nbsp; <a href="https://kushagrakiyawat.com">kushagrakiyawat.com</a>
 </p>
 
 ---
